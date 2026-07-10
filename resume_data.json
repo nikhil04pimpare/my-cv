@@ -1,0 +1,170 @@
+{
+  "name": "Nikhil Pimpare",
+  "title": "Python Cloud Developer & DevOps Engineer",
+  "tagline": "Python Cloud Developer & DevOps Engineer",
+  "summary": "Results-driven Python Cloud Developer with 5+ years of hands-on experience architecting and deploying scalable cloud-native solutions on Azure, GCP, and AWS. Specialized in designing high-performance distributed systems, orchestrating containerized microservices, automating complex DevOps workflows, and executing enterprise-grade cloud migrations. Proven track record of delivering 30%+ performance improvements and building robust, production-ready infrastructure supporting mission-critical applications.",
+  "contact": {
+    "email": "nikhil04pimpare@outlook.com",
+    "phone": "+91-9665349744",
+    "location": "Bengaluru, Karnataka, India",
+    "linkedin": "https://www.linkedin.com/in/nikhil-pimpare",
+    "downloadCV": "https://drive.google.com/your-cv-link"
+  },
+  "stats": [
+    {
+      "number": "5+",
+      "label": "Years Cloud Experience"
+    },
+    {
+      "number": "30%",
+      "label": "Performance Uplift"
+    },
+    {
+      "number": "3",
+      "label": "Cloud Platforms"
+    },
+    {
+      "number": "15+",
+      "label": "Technologies Mastered"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Python Cloud Developer",
+      "company": "Mercedes-Benz Research and Development India",
+      "date": "January 2023 - Present",
+      "achievements": [
+        "Architected and deployed scalable RESTful APIs using Flask for enterprise-grade Data Analytics platform, enabling real-time data retrieval and advanced visualization capabilities",
+        "Spearheaded Azure cloud migration for car testing data platform, achieving 30% performance uplift and providing high-fidelity ground truth for cross-functional stakeholders",
+        "Optimized page load times by 20% through strategic Azure performance tuning and architectural improvements, enhancing user experience across the platform",
+        "Engineered end-to-end Azure infrastructure encompassing AKS cluster orchestration, PostgreSQL databases, managed file storage, DNS configuration, and network topology for containerized microservices",
+        "Designed and implemented event-driven architecture on GCP leveraging GKE, Pub/Sub messaging, Cloud Storage, and AlloyDB for next-generation vehicle testing platforms supporting high-throughput data flows",
+        "Developed scalable metadata handling pipelines managing cross-platform data ingestion, enabling seamless integration across heterogeneous data sources and systems",
+        "Integrated Grafana as containerized service for enterprise-wide real-time monitoring and observability, improving system visibility and incident response by 40%",
+        "Engineered high-performance data processing features using gRPC communication protocols and Parquet columnar storage for efficient large-scale analytics workloads",
+        "Automated complex triage and remediation workflows using Flyte orchestration framework, reducing manual intervention by 60% and accelerating issue resolution cycles",
+        "Built and maintained cloud infrastructure as code using Pulumi (TypeScript), ensuring deterministic, reproducible deployments across multiple environments",
+        "Collaborated proactively with product and stakeholder teams, resolving technical challenges promptly and ensuring seamless application functionality across the organization",
+        "Contributed to next-generation vehicle platform development with scalable Python backend solutions, including FastAPI-based event-driven microservices and optimized database layer design",
+        "Developed comprehensive test suites with 50+ test cases and resolved 30+ production issues, maintaining high code quality and system reliability standards"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cloud Backend Developer",
+      "company": "Devangles Software Pvt. Ltd.",
+      "date": "August 2021 - December 2022",
+      "achievements": [
+        "Built and enhanced client-facing API-based lead consolidation platform on GCP, processing high-volume business leads with sophisticated pay-per-API-call billing model",
+        "Automated infrastructure operations including backups, deployments, and rollbacks using Cloud Build, Python, and Kubernetes, reducing manual overhead by 50%",
+        "Enhanced application performance by optimizing load times with machine learning models and systematically migrating legacy shell scripts to maintainable Python CLI tooling",
+        "Successfully orchestrated multi-platform Odoo ERP deployment across GCP Compute Engine, Kubernetes clusters, and Docker containerization, enabling enterprise-wide scalability",
+        "Engineered optimized development environment through Gitpod containerization and integrated Sonarqube for continuous code quality analysis and CI/CD pipeline automation",
+        "Fortified application security posture with Binary Authorization enforcement, Google Secret Manager integration, and automated container image vulnerability scanning protocols"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Python", "SQL", "TypeScript", "Golang", "Bash/Shell"]
+    },
+    {
+      "category": "Backend & API Development",
+      "items": ["Flask", "FastAPI", "SQLAlchemy (ORM)", "REST APIs", "gRPC", "Microservices Architecture"]
+    },
+    {
+      "category": "Cloud Platforms",
+      "items": ["Microsoft Azure", "Google Cloud Platform (GCP)", "Amazon Web Services (AWS)", "Kubernetes (K8s)"]
+    },
+    {
+      "category": "DevOps & Infrastructure",
+      "items": ["CI/CD Pipelines", "Docker", "Kubernetes Orchestration", "Pulumi (IaC)", "Terraform", "Cloud Build", "GitHub Actions"]
+    },
+    {
+      "category": "Databases & Data Engineering",
+      "items": ["PostgreSQL", "MongoDB", "AlloyDB", "Parquet", "Apache Spark", "Data Pipelines"]
+    },
+    {
+      "category": "Monitoring, Observability & Automation",
+      "items": ["Grafana", "Prometheus", "RabbitMQ", "Flyte Orchestration", "Sonarqube", "Binary Authorization", "Secret Management"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Cloud Data Analytics Platform",
+      "description": "Enterprise-grade full-stack data analytics platform on Azure handling massive-scale vehicle testing data. Architected microservices on AKS with PostgreSQL backend, achieved 30% performance improvement through cloud optimization, integrated Grafana for real-time observability, and implemented automated metadata pipelines for cross-platform data ingestion.",
+      "technologies": ["Python", "FastAPI", "Flask", "Azure AKS", "PostgreSQL", "Grafana", "Pulumi (TypeScript)"],
+      "githubLink": "https://github.com/yourprofile/project1",
+      "demoLink": ""
+    },
+    {
+      "id": 2,
+      "title": "Event-Driven Vehicle Testing Platform",
+      "description": "Scalable event-driven architecture on GCP for next-generation vehicle testing platforms. Engineered with Pub/Sub for asynchronous messaging patterns, GKE for container orchestration, AlloyDB for relational data, and high-throughput data processing using gRPC and Parquet columnar storage for efficient large-scale analytics.",
+      "technologies": ["GCP Pub/Sub", "GKE", "AlloyDB", "gRPC", "Parquet", "Cloud Storage", "Python"],
+      "githubLink": "https://github.com/yourprofile/project2",
+      "demoLink": ""
+    },
+    {
+      "id": 3,
+      "title": "Cloud-Native Lead Management System",
+      "description": "Highly scalable lead consolidation platform on GCP with sophisticated pay-per-API-call billing model. Implemented automated CI/CD with Cloud Build and Sonarqube, containerized deployment with 50% reduction in manual effort, hardened security with Binary Authorization and Secret Manager integration, and orchestrated infrastructure using Kubernetes.",
+      "technologies": ["Python", "Cloud Build", "Kubernetes", "Sonarqube", "GCP", "Docker", "Binary Authorization"],
+      "githubLink": "https://github.com/yourprofile/project3",
+      "demoLink": ""
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "title": "Bachelor of Engineering",
+      "institution": "Savitribai Phule Pune University",
+      "year": "First Class with Distinction",
+      "description": "Comprehensive foundation in computer science fundamentals, software engineering principles, distributed systems architecture, and database design",
+      "link": ""
+    },
+    {
+      "id": 2,
+      "title": "Certified AI-Empowered SAFe® Practitioner",
+      "institution": "Scaled Agile, Inc.",
+      "year": "2024 - 2025",
+      "description": "Professional certification in SAFe Agile methodology, AI-driven program management, and enterprise-scale project execution",
+      "link": "https://www.credly.com/badges/8271b01f-9df4-4fe8-ba66-130b1fe547a6/public_url"
+    },
+    {
+      "id": 3,
+      "title": "Google Certified Associate Cloud Engineer",
+      "institution": "Google Cloud",
+      "year": "2023",
+      "description": "Professional certification demonstrating comprehensive expertise in GCP infrastructure architecture, resource deployment, and cloud optimization",
+      "link": ""
+    },
+    {
+      "id": 4,
+      "title": "DevOps with AWS Certification",
+      "institution": "Naresh IT, Hyderabad",
+      "year": "2023",
+      "description": "Advanced training in AWS DevOps best practices, CI/CD pipeline design, infrastructure automation, and production deployment strategies",
+      "link": "https://drive.google.com/file/d/1MXB5kf1prBl33X153SQz-o-lDhGHIjVl/view"
+    },
+    {
+      "id": 5,
+      "title": "X-Stream Award",
+      "institution": "Mercedes-Benz Research & Development India",
+      "year": "2025",
+      "description": "Executive recognition for exceptional performance, innovation, and leadership in cloud platform architecture and development initiatives",
+      "link": "https://drive.google.com/file/d/1DfM3c4dXeK-ylo4RK0eHmYoTndLKffNi/view"
+    },
+    {
+      "id": 6,
+      "title": "Bronze Award",
+      "institution": "Mercedes-Benz Research & Development India",
+      "year": "2025",
+      "description": "Achievement recognition for outstanding contributions to mission-critical projects and positive organizational impact",
+      "link": "https://drive.google.com/file/d/1I0UcK9m0d_eh6MhPScZVGToB0yCSyVT4/view"
+    }
+  ]
+}
